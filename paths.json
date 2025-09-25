@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/adobe-eds-ue/:/",
-    "/content/adobe-eds-ue/configuration:/.helix/config.json",
-    "/content/adobe-eds-ue/metadata:/metadata.json"
+    "/content/kishore-eds-ue/:/",
+    "/content/kishore-eds-ue/configuration:/.helix/config.json",
+    "/content/kishore-eds-ue/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/adobe-eds-ue/"
+    "/content/kishore-eds-ue/"
   ]
 }
